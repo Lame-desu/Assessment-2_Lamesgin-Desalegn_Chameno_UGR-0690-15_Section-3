@@ -1,0 +1,94 @@
+body {
+  background-color: white;
+}
+
+h1 {
+  font-size: 60px;
+}
+.h1-color {
+  color: #db833d;
+}
+.no-decoration {
+  text-decoration: none;
+}
+
+.header-outer-container {
+  background-color: #202822;
+}
+
+.separate-header {
+  color: white;
+}
+
+.nav-bar {
+  list-style: none;
+}
+
+.button {
+  background-color: #87a42a;
+  border-radius: 5%;
+}
+.button a {
+  color: white;
+}
+
+.button:hover {
+  background-color: #db833d;
+}
+/* header finished */
+
+/* body started */
+h2 {
+  color: #87a42a;
+  font-size: 28px;
+}
+
+.main-inner-container a {
+  color: #87a42a;
+}
+
+.red-anchor a {
+  color: #db833d;
+}
+.right-container ul {
+  list-style: none;
+}
+
+.left-container img {
+  border: 1px solid #b3b5b4;
+}
+/* body finished */
+
+.footer-outer-container {
+  background-color: #202822;
+}
+
+.footer-outer-container,
+.footer-outer-container h2 {
+  color: white;
+}
+
+.bolder-text {
+  font-weight: bolder;
+}
+
+.footer-address {
+  list-style: none;
+}
+
+.copyright-outer-container {
+  background-color: #212121;
+  color: white;
+}
+
+.copyright-footer ul {
+  list-style: none;
+}
+
+footer a {
+  color: #87a42a;
+}
+
+.send-email {
+  list-style: none;
+}
